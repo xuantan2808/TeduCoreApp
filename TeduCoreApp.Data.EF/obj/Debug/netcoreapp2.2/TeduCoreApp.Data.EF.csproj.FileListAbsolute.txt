@@ -1,0 +1,16 @@
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.deps.json
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.pdb
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.csproj.CoreCompileInputs.cache
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.AssemblyInfoInputs.cache
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.AssemblyInfo.cs
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.pdb
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Infrastructure.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Utilities.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.pdb
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Infrastructure.pdb
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.2\TeduCoreApp.Utilities.pdb
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.csprojAssemblyReference.cache
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.EF.csproj.CopyComplete

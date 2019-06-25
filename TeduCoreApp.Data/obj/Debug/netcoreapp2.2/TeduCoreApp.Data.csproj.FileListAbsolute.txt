@@ -1,0 +1,9 @@
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.deps.json
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\bin\Debug\netcoreapp2.2\TeduCoreApp.Data.pdb
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.csprojAssemblyReference.cache
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.csproj.CoreCompileInputs.cache
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.AssemblyInfoInputs.cache
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.AssemblyInfo.cs
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.dll
+D:\TeduCore\TeduCoreApp\TeduCoreApp.Data\obj\Debug\netcoreapp2.2\TeduCoreApp.Data.pdb
